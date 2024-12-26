@@ -1,0 +1,7 @@
+[
+	{
+		"question": "What is H2O",
+		"correct_answer": "Water",
+		"wrong_answers": ["Salt", "Oxygen", "Liquid"]
+	}
+]

@@ -1,0 +1,7 @@
+[
+	{
+		"question": "4x4",
+		"correct_answer": "16",
+		"wrong_answers": ["8", "24", "18"]
+	}
+]

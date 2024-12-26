@@ -1,0 +1,571 @@
+[
+	{
+		"question": "Which pop star’s 'Eras Tour' had fans dancing through every phase and became one of 2023’s highest-grossing tours?",
+		"correct_answer": "Taylor Swift",
+		"wrong_answers": ["Ariana Grande", "Beyoncé", "Lady Gaga"]
+	},
+	{
+		"question": "Who took center stage in the 2023 blockbuster Barbie movie, making pink the hottest color on the big screen?",
+		"correct_answer": "Margot Robbie",
+		"wrong_answers": [
+			"Emma Stone",
+			"Scarlett Johansson",
+			"Jennifer Lawrence"
+		]
+	},
+	{
+		"question": "Which queen of pop dropped the news of her second baby bump during the glitzy 2023 Super Bowl halftime show?",
+		"correct_answer": "Rihanna",
+		"wrong_answers": ["Beyoncé", "Shakira", "Adele"]
+	},
+	{
+		"question": "What double-feature buzzed through 2023 by mixing the pink perfection of Barbie with the explosive power of Oppenheimer?",
+		"correct_answer": "Barbenheimer",
+		"wrong_answers": ["PinkHeimer", "BarbieBlast", "OppieBarbie"]
+	},
+	{
+		"question": "Which creepy AI doll took Hollywood by storm in 2023, proving that even robots can have a dark side?",
+		"correct_answer": "M3GAN",
+		"wrong_answers": ["Annabelle", "Chucky", "Sophia"]
+	},
+	{
+		"question": "Who snagged the Best Supporting Actor Oscar in 2023 for juggling multiple universes in 'Everything Everywhere All at Once'?",
+		"correct_answer": "Ke Huy Quan",
+		"wrong_answers": ["Brendan Gleeson", "Barry Keoghan", "Paul Dano"]
+	},
+	{
+		"question": "Which powerhouse pop star’s Renaissance World Tour had concert venues grooving all year long in 2023?",
+		"correct_answer": "Beyoncé",
+		"wrong_answers": ["Taylor Swift", "Adele", "Katy Perry"]
+	},
+	{
+		"question": "What 2023 slang encouraged folks to convince themselves with a little self-deception?",
+		"correct_answer": "'Delulu'",
+		"wrong_answers": ["Sliving", "'Rizz'", "'Goblin Mode'"]
+	},
+	{
+		"question": "Which meme-filled 2023 trend celebrated all things girlhood and girly?",
+		"correct_answer": "'Girl Math'",
+		"wrong_answers": ["Girl Power", "'Hot Girl Summer'", "'Soft Life'"]
+	},
+	{
+		"question": "Which trend in 2023 had Swifties crafting bracelets to show their love for Taylor's tour?",
+		"correct_answer": "'Taylor Swift Friendship Bracelets'",
+		"wrong_answers": ["Tour Beads", "'Swiftie Chains'", "'Karma Bracelets'"]
+	},
+	{
+		"question": "Which 2023 Star Wars series follows a Jedi Knight on the hunt for the elusive Grand Admiral Thrawn?",
+		"correct_answer": "'Ahsoka'",
+		"wrong_answers": ["The Mandalorian", "'Andor'", "'Obi-Wan Kenobi'"]
+	},
+	{
+		"question": "Which Taylor Swift album released in 2023 kept her music throne secure with its dreamy tunes?",
+		"correct_answer": "'Midnights (3am Edition)'",
+		"wrong_answers": ["Evermore", "1989 (Taylor's Version)", "Reputation"]
+	},
+	{
+		"question": "Who sashayed to the top as Artist of the Year at the 2023 MTV VMAs?",
+		"correct_answer": "Taylor Swift",
+		"wrong_answers": ["Bad Bunny", "Drake", "Beyoncé"]
+	},
+	{
+		"question": "Which 2023 NYC event dazzled with a red carpet tribute to Karl Lagerfeld’s iconic style?",
+		"correct_answer": "The Met Gala",
+		"wrong_answers": ["Fashion Week", "The Oscars", "The Grammys"]
+	},
+	{
+		"question": "Who snagged the Best Director Oscar in 2023 for their mind-bending masterpiece?",
+		"correct_answer": "(Daniel Kwan and Daniel Scheinert) Everything Everywhere All at Once",
+		"wrong_answers": ["Steven Spielberg", "Martin Scorsese", "Greta Gerwig"]
+	},
+	{
+		"question": "Which legendary performer gave his grand UK finale at the 2023 Glastonbury Festival?",
+		"correct_answer": "Elton John",
+		"wrong_answers": ["Paul McCartney", "David Bowie", "Billy Joel"]
+	},
+	{
+		"question": "Which rapper, who went by 'Ye' since 2021, kept making headlines in 2023?",
+		"correct_answer": "Kanye West",
+		"wrong_answers": ["Drake", "Lil Nas X", "Travis Scott"]
+	},
+	{
+		"question": "Which country icon rocked a 2023 album featuring legends like Paul McCartney and Stevie Nicks?",
+		"correct_answer": "Dolly Parton",
+		"wrong_answers": ["Carrie Underwood", "Shania Twain", "Miranda Lambert"]
+	},
+	{
+		"question": "Which 2023 mystery film had Daniel Craig slicing through clues as Detective Benoit Blanc?",
+		"correct_answer": "'Glass Onion: A Knives Out Mystery'",
+		"wrong_answers": [
+			"Murder on the Orient Express",
+			"'Knives Out'",
+			"'The Girl with the Dragon Tattoo'"
+		]
+	},
+	{
+		"question": "Justin Timberlake teamed up with which nostalgic boy band for a groovy 2023 track?",
+		"correct_answer": "NSYNC",
+		"wrong_answers": ["Backstreet Boys", "Boyz II Men", "One Direction"]
+	},
+
+	{
+		"question": "At the 2023 Oscars, Lady Gaga gave a heartfelt tribute to which timeless diva?",
+		"correct_answer": "Liza Minnelli",
+		"wrong_answers": ["Barbra Streisand", "Cher", "Diana Ross"]
+	},
+	{
+		"question": "Which Saudi Arabian club scored big by signing football superstar Cristiano Ronaldo in 2023?",
+		"correct_answer": "Al-Nassr",
+		"wrong_answers": ["Al-Hilal", "Al-Ahli", "Al-Ittihad"]
+	},
+	{
+		"question": "Doja Cat turned heads in 2023 with her killer beats and bold fashion at which glitzy event?",
+		"correct_answer": "The Met Gala",
+		"wrong_answers": ["The Grammys", "The Billboard Awards", "Fashion Week"]
+	},
+	{
+		"question": "Which multiverse masterpiece took home the Best Picture Oscar in 2023?",
+		"correct_answer": "'Everything Everywhere All at Once'",
+		"wrong_answers": [
+			"Top Gun: Maverick",
+			"'The Banshees of Inisherin'",
+			"'Avatar: The Way of Water'"
+		]
+	},
+	{
+		"question": "Which Netflix series featuring a group of teenagers became a global sensation in 2023?",
+		"correct_answer": "'Stranger Things'",
+		"wrong_answers": ["Wednesday", "'Bridgerton'", "'The Witcher'"]
+	},
+	{
+		"question": "Which artist made headlines in 2023 for their viral TikTok dance challenges?",
+		"correct_answer": "SZA",
+		"wrong_answers": ["Drake", "Lil Nas X", "Dua Lipa"]
+	},
+	{
+		"question": "Which popular animated series returned with a new season in 2023, featuring the adventures of a family of superheroes?",
+		"correct_answer": "'The Incredibles'",
+		"wrong_answers": ["The Simpsons", "'Futurama'", "'Family Guy'"]
+	},
+	{
+		"question": "'What is Love?' was famously covered by which artist in 2023, reviving the classic hit?",
+		"correct_answer": "Halsey",
+		"wrong_answers": ["Rihanna", "Ariana Grande", "Billie Eilish"]
+	},
+	{
+		"question": "'The Last of Us' series, based on a popular video game, premiered on which streaming platform in 2023?",
+		"correct_answer": "'HBO Max'",
+		"wrong_answers": ["Netflix", "'Disney+'", "'Amazon Prime Video'"]
+	},
+	{
+		"question": "'Wakanda Forever' is the sequel to which blockbuster Marvel film released in 2022?",
+		"correct_answer": "'Black Panther'",
+		"wrong_answers": [
+			"Spider-Man: No Way Home",
+			"'Doctor Strange'",
+			"'Thor: Love and Thunder'"
+		]
+	},
+	{
+		"question": "Which popular streaming service released the highly anticipated series 'The Sandman' in 2023?",
+		"correct_answer": "'Netflix'",
+		"wrong_answers": ["Hulu", "'Amazon Prime Video'", "'Disney+'"]
+	},
+	{
+		"question": "Which artist headlined the 2023 Coachella festival, marking a triumphant return to the stage?",
+		"correct_answer": "Bad Bunny",
+		"wrong_answers": ["Billie Eilish", "Harry Styles", "Kendrick Lamar"]
+	},
+	{
+		"question": "Which animated film about a family of superheroes received critical acclaim and box office success in 2023?",
+		"correct_answer": "'The Incredibles 2'",
+		"wrong_answers": ["Zootopia", "'Frozen II'", "'Minions'"]
+	},
+	{
+		"question": "Which viral TikTok trend in 2023 involved people sharing their 'hot takes' on various topics?",
+		"correct_answer": "'Hot Take Challenge'",
+		"wrong_answers": [
+			"Truth or Dare",
+			"'Spill the Tea'",
+			"'Rate My Outfit'"
+		]
+	},
+	{
+		"question": "Which celebrity couple announced their engagement during a live TV show in 2023?",
+		"correct_answer": "Kourtney Kardashian and Travis Barker",
+		"wrong_answers": [
+			"Miley Cyrus and Liam Hemsworth",
+			"Selena Gomez and Chris Evans",
+			"Jennifer Lopez and Ben Affleck"
+		]
+	},
+	{
+		"question": "'The Bear,' a series about a young chef returning home to run a family restaurant, premiered on which platform in 2023?",
+		"correct_answer": "'Hulu'",
+		"wrong_answers": ["Netflix", "'Amazon Prime Video'", "'Disney+'"]
+	},
+	{
+		"question": "Which 2023 film featured a star-studded cast including Margot Robbie and Ryan Gosling?",
+		"correct_answer": "'Barbie'",
+		"wrong_answers": [
+			"Oppenheimer",
+			"'Dune'",
+			"'Killers of the Flower Moon'"
+		]
+	},
+	{
+		"question": "Which iconic music festival celebrated its 50th anniversary in 2023?",
+		"correct_answer": "'Woodstock'",
+		"wrong_answers": ["Coachella", "'Lollapalooza'", "'Glastonbury'"]
+	},
+	{
+		"question": "'Stranger Things' season 4 was released in which year?",
+		"correct_answer": "2022",
+		"wrong_answers": ["2021", "2023", "2020"]
+	},
+	{
+		"question": "'Everything Everywhere All at Once' features which actress in a lead role?",
+		"correct_answer": "Michelle Yeoh",
+		"wrong_answers": ["Awkwafina", "Constance Wu", "Gemma Chan"]
+	},
+	{
+		"question": "Which artist's album 'Midnights' became one of the best-selling albums of 2023?",
+		"correct_answer": "Taylor Swift",
+		"wrong_answers": ["Adele", "Ed Sheeran", "Dua Lipa"]
+	},
+	{
+		"question": "Which popular video game franchise released a highly anticipated sequel in 2023 titled 'The Legend of Zelda: Tears of the Kingdom'?",
+		"correct_answer": "'The Legend of Zelda'",
+		"wrong_answers": ["Final Fantasy", "'Super Mario'", "'Call of Duty'"]
+	},
+	{
+		"question": "Which major sporting event took place in Qatar in 2022, capturing global attention?",
+		"correct_answer": "FIFA World Cup",
+		"wrong_answers": ["Olympics", "Super Bowl", "NBA Finals"]
+	},
+	{
+		"question": "'Wednesday,' a series focusing on the daughter of the Addams Family, was released on which streaming service?",
+		"correct_answer": "'Netflix'",
+		"wrong_answers": ["Hulu", "'Disney+'", "'Amazon Prime Video'"]
+	},
+	{
+		"question": "Which actress won the Best Actress Oscar in 2023 for her role in 'Tár'?",
+		"correct_answer": "Cate Blanchett",
+		"wrong_answers": ["Michelle Williams", "Ana de Armas", "Margot Robbie"]
+	},
+	{
+		"question": "'Top Gun: Maverick' is a sequel to which classic 1986 film?",
+		"correct_answer": "'Top Gun'",
+		"wrong_answers": [
+			"Days of Thunder",
+			"'Iron Eagle'",
+			"'The Right Stuff'"
+		]
+	},
+	{
+		"question": "Which pop star made headlines in 2023 for their collaboration with BTS member Jungkook?",
+		"correct_answer": "Charlie Puth",
+		"wrong_answers": ["Shawn Mendes", "Justin Bieber", "Ed Sheeran"]
+	},
+	{
+		"question": "'Euphoria,' a series known for its portrayal of teen struggles, received renewed popularity with its second season in which year?",
+		"correct_answer": "2022",
+		"wrong_answers": ["2021", "2023", "2020"]
+	},
+	{
+		"question": "'The Marvels,' featuring Captain Marvel and Ms. Marvel, was released in which year?",
+		"correct_answer": "2023",
+		"wrong_answers": ["2022", "2024", "2021"]
+	},
+	{
+		"question": "'Avatar: The Way of Water' is a sequel to which groundbreaking film released in 2009?",
+		"correct_answer": "'Avatar'",
+		"wrong_answers": ["Titanic", "'Pacific Rim'", "'Interstellar'"]
+	},
+	{
+		"question": "Which artist's song 'Flowers' became a massive hit in 2023, celebrating self-love and independence?",
+		"correct_answer": "Miley Cyrus",
+		"wrong_answers": ["Dua Lipa", "Selena Gomez", "Ariana Grande"]
+	},
+	{
+		"question": "Which popular streaming service released the series 'The Bear,' focusing on a young chef's return to his family's restaurant?",
+		"correct_answer": "'Hulu'",
+		"wrong_answers": ["Netflix", "'Amazon Prime Video'", "'Disney+'"]
+	},
+	{
+		"question": "Which film, directed by Greta Gerwig, became a cultural phenomenon in 2023?",
+		"correct_answer": "'Barbie'",
+		"wrong_answers": ["Little Women", "'Lady Bird'", "'A Star is Born'"]
+	},
+	{
+		"question": "Who won the Grammy for Album of the Year in 2023?",
+		"correct_answer": "Lizzo",
+		"wrong_answers": ["Taylor Swift", "Beyoncé", "Harry Styles"]
+	},
+	{
+		"question": "'House of the Dragon' is a prequel to which immensely popular HBO series?",
+		"correct_answer": "'Game of Thrones'",
+		"wrong_answers": ["Westworld", "'True Blood'", "'The Sopranos'"]
+	},
+	{
+		"question": "Which 2023 movie features a character named 'Barbie' who embarks on a journey of self-discovery?",
+		"correct_answer": "'Barbie'",
+		"wrong_answers": [
+			"The Princess Diaries",
+			"'Mean Girls'",
+			"'Legally Blonde'"
+		]
+	},
+	{
+		"question": "'Squid Game' creator Hwang Dong-hyuk announced plans for a second season in which year?",
+		"correct_answer": "2023",
+		"wrong_answers": ["2022", "2024", "2021"]
+	},
+	{
+		"question": "'The Last of Us' series is based on a video game from which gaming company?",
+		"correct_answer": "'Naughty Dog'",
+		"wrong_answers": ["Activision", "'Ubisoft'", "'EA Sports'"]
+	},
+	{
+		"question": "'Stranger Things' season 4 was released in which year?",
+		"correct_answer": "2022",
+		"wrong_answers": ["2021", "2023", "2020"]
+	},
+	{
+		"question": "'Wakanda Forever' is the sequel to which blockbuster Marvel film released in 2018?",
+		"correct_answer": "'Black Panther'",
+		"wrong_answers": [
+			"Avengers: Endgame",
+			"'Spider-Man: Homecoming'",
+			"'Thor: Ragnarok'"
+		]
+	},
+	{
+		"question": "Which actor starred as Ken alongside Margot Robbie in the 2023 film 'Barbie'?",
+		"correct_answer": "Ryan Gosling",
+		"wrong_answers": ["Chris Hemsworth", "Zac Efron", "Chris Evans"]
+	},
+	{
+		"question": "Which artist released the hit single 'Kill Bill' in 2023, inspired by Quentin Tarantino's films?",
+		"correct_answer": "SZA",
+		"wrong_answers": ["Doja Cat", "Billie Eilish", "Halsey"]
+	},
+	{
+		"question": "'Oppenheimer,' directed by Christopher Nolan, explores the life of which historical figure?",
+		"correct_answer": "J. Robert Oppenheimer",
+		"wrong_answers": ["Albert Einstein", "Nikola Tesla", "Enrico Fermi"]
+	},
+	{
+		"question": "'The Super Mario Bros. Movie,' released in 2023, featured which actor as the voice of Mario?",
+		"correct_answer": "Chris Pratt",
+		"wrong_answers": ["Jack Black", "Charlie Day", "Seth Rogen"]
+	},
+	{
+		"question": "'Wednesday,' a Netflix series, stars which actress as Wednesday Addams?",
+		"correct_answer": "Jenna Ortega",
+		"wrong_answers": ["Millie Bobby Brown", "Anya Taylor-Joy", "Sadie Sink"]
+	},
+	{
+		"question": "'The White Lotus' season 2 takes place in which country?",
+		"correct_answer": "Italy",
+		"wrong_answers": ["Greece", "Spain", "France"]
+	},
+	{
+		"question": "'Avatar: The Way of Water' was directed by which filmmaker?",
+		"correct_answer": "James Cameron",
+		"wrong_answers": ["Steven Spielberg", "Peter Jackson", "Ridley Scott"]
+	},
+	{
+		"question": "'The Mandalorian' features which actor as the titular character?",
+		"correct_answer": "Pedro Pascal",
+		"wrong_answers": ["Oscar Isaac", "Diego Luna", "Ewan McGregor"]
+	},
+	{
+		"question": "'Euphoria' star Zendaya won an Emmy for her performance in which year?",
+		"correct_answer": "2022",
+		"wrong_answers": ["2021", "2020", "2023"]
+	},
+	{
+		"question": "'Everything Everywhere All at Once' explores which concept as its central theme?",
+		"correct_answer": "'The Multiverse'",
+		"wrong_answers": [
+			"Time Travel",
+			"'Artificial Intelligence'",
+			"'Parallel Universes'"
+		]
+	},
+	{
+		"question": "Which actor played Elvis Presley in the 2022 biopic 'Elvis'?",
+		"correct_answer": "Austin Butler",
+		"wrong_answers": ["Timothée Chalamet", "Harry Styles", "Ansel Elgort"]
+	},
+	{
+		"question": "'The Crown' on Netflix focuses on the reign of which British monarch?",
+		"correct_answer": "Queen Elizabeth II",
+		"wrong_answers": ["Queen Victoria", "King George VI", "Queen Mary"]
+	},
+	{
+		"question": "'Ted Lasso,' a hit comedy series, follows an American coach managing which sport?",
+		"correct_answer": "Soccer",
+		"wrong_answers": ["Basketball", "Football", "Baseball"]
+	},
+	{
+		"question": "'Dune: Part Two,' set to release in 2024, stars which actor as Paul Atreides?",
+		"correct_answer": "Timothée Chalamet",
+		"wrong_answers": ["Tom Holland", "Oscar Isaac", "Robert Pattinson"]
+	},
+	{
+		"question": "'Succession,' a critically acclaimed HBO series, revolves around which fictional family?",
+		"correct_answer": "'The Roy Family'",
+		"wrong_answers": [
+			"The Lannisters",
+			"'The Pearson Family'",
+			"'The Crawley Family'"
+		]
+	},
+	{
+		"question": "'The Weeknd' starred in which controversial HBO series in 2023?",
+		"correct_answer": "'The Idol'",
+		"wrong_answers": ["Euphoria", "'The White Lotus'", "'Big Little Lies'"]
+	},
+	{
+		"question": "'Spider-Man: Across the Spider-Verse' introduced which new Spider-Man variant?",
+		"correct_answer": "'Spider-Man 2099'",
+		"wrong_answers": [
+			"Spider-Punk",
+			"'Scarlet Spider'",
+			"'Miles Morales (Prime)'"
+		]
+	},
+	{
+		"question": "'Barbie' and 'Oppenheimer' were released on the same day in 2023. What was this cultural event nicknamed?",
+		"correct_answer": "'Barbenheimer'",
+		"wrong_answers": ["Oppenbarbie", "'Barbie Day'", "'Pink Explosion'"]
+	},
+	{
+		"question": "'The Boys,' a gritty superhero series, streams on which platform?",
+		"correct_answer": "'Amazon Prime Video'",
+		"wrong_answers": ["Netflix", "'HBO Max'", "'Disney+'"]
+	},
+	{
+		"question": "'The Hunger Games: The Ballad of Songbirds and Snakes' is a prequel to which popular book series?",
+		"correct_answer": "'The Hunger Games'",
+		"wrong_answers": ["Divergent", "'Maze Runner'", "'Twilight'"]
+	},
+	{
+		"question": "Which artist performed at the 2023 Super Bowl halftime show?",
+		"correct_answer": "Rihanna",
+		"wrong_answers": ["Beyoncé", "Lady Gaga", "Ariana Grande"]
+	},
+	{
+		"question": "'The Marvels' features which two superheroes teaming up?",
+		"correct_answer": "'Captain Marvel' and 'Ms. Marvel'",
+		"wrong_answers": [
+			"Black Widow and Hawkeye",
+			"'Scarlet Witch' and 'Vision'",
+			"'Spider-Man' and 'Black Panther'"
+		]
+	},
+	{
+		"question": "'The Bear,' a popular series about a chef, takes place in which city?",
+		"correct_answer": "Chicago",
+		"wrong_answers": ["New York", "Los Angeles", "Miami"]
+	},
+	{
+		"question": "'Yellowjackets,' a thriller series, revolves around a group of girls from which sport's team?",
+		"correct_answer": "'Soccer'",
+		"wrong_answers": ["Basketball", "'Field Hockey'", "'Lacrosse'"]
+	},
+	{
+		"question": "'The Flash' movie, released in 2023, features which actor reprising his role as Barry Allen?",
+		"correct_answer": "Ezra Miller",
+		"wrong_answers": ["Grant Gustin", "Ben Affleck", "Henry Cavill"]
+	},
+	{
+		"question": "'The Little Mermaid' live-action adaptation stars which actress as Ariel?",
+		"correct_answer": "Halle Bailey",
+		"wrong_answers": ["Chloe Grace Moretz", "Zendaya", "Lana Condor"]
+	},
+	{
+		"question": "'The Sandman,' a Netflix series, is based on a comic book by which creator?",
+		"correct_answer": "Neil Gaiman",
+		"wrong_answers": ["Alan Moore", "Frank Miller", "Grant Morrison"]
+	},
+	{
+		"question": "'Ghostbusters: Afterlife' is a sequel to which classic 1984 film?",
+		"correct_answer": "'Ghostbusters'",
+		"wrong_answers": ["Gremlins", "'Back to the Future'", "'The Goonies'"]
+	},
+	{
+		"question": "'The White Lotus' season 2 was set in which exotic location?",
+		"correct_answer": "'Sicily'",
+		"wrong_answers": ["Hawaii", "'Bora Bora'", "'Maldives'"]
+	},
+	{
+		"question": "'Black Mirror' returned in 2023 with a new season. What is the show's main theme?",
+		"correct_answer": "'Dystopian Futures'",
+		"wrong_answers": [
+			"Romantic Comedy",
+			"'Fantasy Adventures'",
+			"'Historical Drama'"
+		]
+	},
+	{
+		"question": "Which actor reprised his role as Indiana Jones in the 2023 film 'Indiana Jones and the Dial of Destiny'?",
+		"correct_answer": "Harrison Ford",
+		"wrong_answers": ["Chris Pratt", "Tom Holland", "Mark Hamill"]
+	},
+	{
+		"question": "'Guardians of the Galaxy Vol. 3' features which character's emotional backstory?",
+		"correct_answer": "Rocket Raccoon",
+		"wrong_answers": ["Star-Lord", "Gamora", "Drax"]
+	},
+	{
+		"question": "'The Idol,' starring The Weeknd, also featured which actress as the lead?",
+		"correct_answer": "Lily-Rose Depp",
+		"wrong_answers": ["Zendaya", "Sydney Sweeney", "Anya Taylor-Joy"]
+	},
+	{
+		"question": "'Across the Spider-Verse' introduced which Spider-Man variant voiced by Oscar Isaac?",
+		"correct_answer": "'Spider-Man 2099'",
+		"wrong_answers": [
+			"Spider-Punk",
+			"'Scarlet Spider'",
+			"'Noir Spider-Man'"
+		]
+	},
+	{
+		"question": "'Ted Lasso' follows an American coach managing a soccer team in which country?",
+		"correct_answer": "England",
+		"wrong_answers": ["Spain", "Italy", "Germany"]
+	},
+	{
+		"question": "'Barbie' director Greta Gerwig is also known for directing which acclaimed film?",
+		"correct_answer": "'Little Women'",
+		"wrong_answers": ["Lady Bird", "'Marriage Story'", "'The Favourite'"]
+	},
+	{
+		"question": "'Oppenheimer,' directed by Christopher Nolan, stars which actor as J. Robert Oppenheimer?",
+		"correct_answer": "Cillian Murphy",
+		"wrong_answers": ["Matt Damon", "Robert Downey Jr.", "Christian Bale"]
+	},
+	{
+		"question": "'The Super Mario Bros. Movie' features Jack Black as the voice of which character?",
+		"correct_answer": "'Bowser'",
+		"wrong_answers": ["Mario", "'Luigi'", "'Yoshi'"]
+	},
+	{
+		"question": "'The Last of Us,' a hit HBO series, stars Pedro Pascal alongside which actress as Ellie?",
+		"correct_answer": "Bella Ramsey",
+		"wrong_answers": ["Millie Bobby Brown", "Sadie Sink", "Mackenzie Foy"]
+	},
+	{
+		"question": "'The Hunger Games: The Ballad of Songbirds and Snakes' focuses on the backstory of which character?",
+		"correct_answer": "'Coriolanus Snow'",
+		"wrong_answers": [
+			"Katniss Everdeen",
+			"'Peeta Mellark'",
+			"'Haymitch Abernathy'"
+		]
+	}
+]
